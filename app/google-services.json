@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139384162598",
+    "project_id": "saint-petersburg-694b6",
+    "storage_bucket": "saint-petersburg-694b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139384162598:android:2d95858967e101bcbc99e7",
+        "android_client_info": {
+          "package_name": "com.example.building"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139384162598-v2d722impam51t6d520vf20knqaucqpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ZO6-p29W7Odgm9GbFjRXaPRZPxS3lX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139384162598-v2d722impam51t6d520vf20knqaucqpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
