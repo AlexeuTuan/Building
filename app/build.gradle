@@ -31,7 +31,13 @@ android {
 apply plugin: 'com.android.application'
 apply plugin: 'com.google.gms.google-services'
 
+
 dependencies {
+
+    // Import the Firebase BoM
+    implementation platform('com.google.firebase:firebase-bom:26.1.1')
+    implementation 'com.google.firebase:firebase-analytics'
+
 
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.2.1'
